@@ -50,3 +50,11 @@ We used the **PARSEC** code to calculate binding energy parameters for non-rotat
 We also considered the possibility that helium stars can act as a donor in the process of CEE.
 Helium stars are stars that have completely lost all hydrogen  through either stellar winds or mass transfer in binaries or did not have it at the beginning of the Main Sequence. We used the **PARSEC** code to simulate the evolution of non-rotating helium stars with varying metallicities $Z$=0.0001, 0.0002, 0.0005, 0.001, 0.002, 0.004, 0.006, 0.008, 0.01, 0.02, 0.03, 0.05 and of
 and  for  78 log-spaced  values of initial masses in the range between 2.0 $M_{\odot}$ and 350.0 $M_{\odot}$. 
+
+## Which data are we providing?
+
+We propose to use the obtained $\lambda$-parameters in the form of tables containing the following data: the mass, radius, effective temperature, and luminosity of the star during stellar evolution.
+
+We also present the obtained fitting functions with coefficients and the mean squared errorы (MSE) for the fitted values compared to the exact ones.
+
+
