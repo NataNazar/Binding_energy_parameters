@@ -16,6 +16,5 @@ Information about the **PARSEC** code and its updates can be found in the follow
 We used the **PARSEC** code to calculate binding energy parameters for non-rotating hydrogen stars with metallicities $Z=$0.0001, 0.0005, 0.001, 0.002, 0.004, 0.006, 0.008, 0.014, 0.017, 0.02 and  48 values of initial masses in a logarithmic scale in the range between 2.0 $M_{\odot}$ and 600.0 $M_{\odot}$.
 
 We also considered the possibility that helium stars can act as a donor in the process of CEE.
-Helium stars are stars that have completely lost all hydrogen  through either stellar winds or mass transfer in binaries or did not have it at the beginning of the Main Sequence. We used the **PARSEC** code to simulate the evolution of non-rotating helium stars with varying metallicities 
-$Z=$0.0001, 0.0002, 0.0005, 0.001, 0.002, 0.004, 0.006, 0.008, 0.01, 0.02, 0.03, 0.05 and of
+Helium stars are stars that have completely lost all hydrogen  through either stellar winds or mass transfer in binaries or did not have it at the beginning of the Main Sequence. We used the **PARSEC** code to simulate the evolution of non-rotating helium stars with varying metallicities $Z=$0.0001, 0.0002, 0.0005, 0.001, 0.002, 0.004, 0.006, 0.008, 0.01, 0.02, 0.03, 0.05 and of
 and  for  78 log-spaced  values of initial masses in the range between 2.0 $M_{\odot}$ and 350.0 $M_{\odot}$. 
