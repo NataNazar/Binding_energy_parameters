@@ -1,4 +1,4 @@
-# Fitting coefficients table for helium stars with  $Z=0.017$  for initial mass ranges: 
+# Fitting coefficients table for hydrogen stars with  $Z=0.017$  for initial mass ranges: 
 - 	$2.0-7.5$ $M_{\odot}$
 - 	$8.0-20.0$ $M_{\odot}$ 
 - 	$25.0-50.0$ $M_{\odot}$
