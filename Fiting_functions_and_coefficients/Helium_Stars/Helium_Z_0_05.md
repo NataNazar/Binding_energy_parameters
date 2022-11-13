@@ -1,4 +1,4 @@
-# Fitting coefficients table for helium stars with  $Z=0.05$  for initial mass ranges: 
+# Fitting coefficients table for helium stars with $Z=0.05$: 
 
 | $M_{\text{ZAMS}}$ / $M_{\odot}$  |  b1  | b2   | MSE  |   $M_{\text{ZAMS}}$ / $M_{\odot}$   |  b1 |  b2 |  MSE | 
 | ------------------|:-------------:| ----:|----:|------:|------:|-------:|-------:|
