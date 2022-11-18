@@ -55,6 +55,6 @@ and  for  78 log-spaced  values of initial masses in the range between 2.0 $M_{\
 
 We propose to use the obtained $\lambda$-parameters in the form of tables containing the following data: the mass, radius, effective temperature, and luminosity of the star during stellar evolution.
 
-We also present the obtained fitting functions with coefficients and the mean squared errorы (MSE) for the fitted values compared to the exact ones.
+We also present the obtained fitting functions with coefficients and the mean squared errors  (MSE) for the fitted values compared to the exact ones.
 
 
