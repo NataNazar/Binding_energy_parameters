@@ -3,6 +3,9 @@
   Description:  The page contains the binding energy parameters derived from the stellar evolution PARSEC code.
   Author: Natalia Nazarova
   -->
+  <meta name='keywords' content='lambda parameters, binding energy parameters, common envelope, common envelope evolution, CEE, isolated binary systems, PARSEC code, binding energy'>
+
+  
 
 # Binding energy parameters 
 ## The page contains the binding energy parameters derived from the stellar evolution PARSEC code in collaboration with Mario Spera and Alessandro Bressan.
