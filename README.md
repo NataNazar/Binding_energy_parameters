@@ -1,3 +1,9 @@
+<!--
+  Title:  Binding energy parameters
+  Description:  The page contains the binding energy parameters derived from the stellar evolution PARSEC code.
+  Author: Natalia Nazarova
+  -->
+
 # Binding energy parameters 
 ## The page contains the binding energy parameters derived from the stellar evolution PARSEC code in collaboration with Mario Spera and Alessandro Bressan.
 
